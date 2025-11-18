@@ -87,5 +87,5 @@ created by:
 
 * **Tangxiaoyi97 (唐晓翼)** – Author 
 * **Anastasia B. (白青)** – Technical Support
-* ||Special Thanks to ChatGPT & Copilot||
+* ~~Special Thanks to ChatGPT & Copilot~~
 
