@@ -1,8 +1,8 @@
 # docsify-easyShare
 
-A modern docsify plugin that allows users to **select multiple Markdown files** and **share / export / copy** them with ease.
+A docsify plugin that allows users to share docs
 
-Contributor: **唐晓翼（作者）** & **白青（技术支持）**
+
 
 ---
 
