@@ -86,6 +86,6 @@ Share everything from sidebar
 created by:
 
 * **Tangxiaoyi97 (唐晓翼)** – Author 
-* **Anastasia B. (白青)** – Technical Support
+* **Anastasia B. (白青)** – Technical Support  
 *Special Thanks to ChatGPT & Copilot*
 
